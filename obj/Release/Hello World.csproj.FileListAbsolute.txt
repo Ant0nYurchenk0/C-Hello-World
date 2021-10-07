@@ -1,0 +1,6 @@
+C:\Users\anyur\Documents\prog\c#\Hello World\bin\Release\Hello World.exe.config
+C:\Users\anyur\Documents\prog\c#\Hello World\bin\Release\Hello World.exe
+C:\Users\anyur\Documents\prog\c#\Hello World\bin\Release\Hello World.pdb
+C:\Users\anyur\Documents\prog\c#\Hello World\obj\Release\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\anyur\Documents\prog\c#\Hello World\obj\Release\Hello World.exe
+C:\Users\anyur\Documents\prog\c#\Hello World\obj\Release\Hello World.pdb

@@ -1,0 +1,20 @@
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\bin\Debug\netcoreapp3.1\Hello World WPF.exe
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\bin\Debug\netcoreapp3.1\Hello World WPF.deps.json
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\bin\Debug\netcoreapp3.1\Hello World WPF.runtimeconfig.json
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\bin\Debug\netcoreapp3.1\Hello World WPF.runtimeconfig.dev.json
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\bin\Debug\netcoreapp3.1\Hello World WPF.dll
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\bin\Debug\netcoreapp3.1\Hello World WPF.pdb
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\Hello World WPF.csproj.AssemblyReference.cache
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\Hello World WPF_MarkupCompile.cache
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\Hello World WPF_MarkupCompile.lref
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\Hello World WPF.g.resources
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\Hello World WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\Hello World WPF.AssemblyInfoInputs.cache
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\Hello World WPF.AssemblyInfo.cs
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\Hello World WPF.csproj.CoreCompileInputs.cache
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\Hello World WPF.dll
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\Hello World WPF.pdb
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WPF\obj\Debug\netcoreapp3.1\Hello World WPF.genruntimeconfig.cache

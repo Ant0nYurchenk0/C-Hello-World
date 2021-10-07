@@ -1,0 +1,16 @@
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\obj\Debug\netcoreapp3.1\Hello World WinForm.csproj.AssemblyReference.cache
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\obj\Debug\netcoreapp3.1\Hello_World_WinForm.Form1.resources
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\obj\Debug\netcoreapp3.1\Hello World WinForm.csproj.GenerateResource.cache
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\obj\Debug\netcoreapp3.1\Hello World WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\obj\Debug\netcoreapp3.1\Hello World WinForm.AssemblyInfoInputs.cache
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\obj\Debug\netcoreapp3.1\Hello World WinForm.AssemblyInfo.cs
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\obj\Debug\netcoreapp3.1\Hello World WinForm.csproj.CoreCompileInputs.cache
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\bin\Debug\netcoreapp3.1\Hello World WinForm.exe
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\bin\Debug\netcoreapp3.1\Hello World WinForm.deps.json
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\bin\Debug\netcoreapp3.1\Hello World WinForm.runtimeconfig.json
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\bin\Debug\netcoreapp3.1\Hello World WinForm.runtimeconfig.dev.json
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\bin\Debug\netcoreapp3.1\Hello World WinForm.dll
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\bin\Debug\netcoreapp3.1\Hello World WinForm.pdb
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\obj\Debug\netcoreapp3.1\Hello World WinForm.dll
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\obj\Debug\netcoreapp3.1\Hello World WinForm.pdb
+C:\Users\anyur\Documents\prog\c#\Hello World\Hello World WinForm\obj\Debug\netcoreapp3.1\Hello World WinForm.genruntimeconfig.cache
